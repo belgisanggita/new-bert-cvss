@@ -1,4 +1,0 @@
-venv
-models/*
-**/*.pt
-models.zip
