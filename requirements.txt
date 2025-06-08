@@ -1,0 +1,8 @@
+cvss
+fastapi
+pydantic
+pymongo
+torch
+transformers
+uvicorn
+flask
