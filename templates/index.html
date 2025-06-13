@@ -132,7 +132,7 @@
         if (response.ok) {
           const result = await response.json();
           Swal.fire({
-            title: 'Prediction Result',
+            title: 'Result',
             html: `<p><strong>Vector:</strong> ${result.vector}</p>
                    <p><strong>Score:</strong> ${result.score}</p>
                    <p><strong>Rating:</strong> ${result.rating}</p>`,
